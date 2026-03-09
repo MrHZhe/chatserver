@@ -1,0 +1,10 @@
+/home/whc/MyCoding/project1/build/CMakeFiles/edit_cache.dir
+/home/whc/MyCoding/project1/build/CMakeFiles/rebuild_cache.dir
+/home/whc/MyCoding/project1/build/src/CMakeFiles/edit_cache.dir
+/home/whc/MyCoding/project1/build/src/CMakeFiles/rebuild_cache.dir
+/home/whc/MyCoding/project1/build/src/server/CMakeFiles/ChatServer.dir
+/home/whc/MyCoding/project1/build/src/server/CMakeFiles/edit_cache.dir
+/home/whc/MyCoding/project1/build/src/server/CMakeFiles/rebuild_cache.dir
+/home/whc/MyCoding/project1/build/src/client/CMakeFiles/ChatClient.dir
+/home/whc/MyCoding/project1/build/src/client/CMakeFiles/edit_cache.dir
+/home/whc/MyCoding/project1/build/src/client/CMakeFiles/rebuild_cache.dir
